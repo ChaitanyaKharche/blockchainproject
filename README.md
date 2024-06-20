@@ -4,7 +4,7 @@
 
 This project is a foundational crypto prototype developed using native Python. It focuses on basic blockchain operations (ops) like transaction handling, block mining, and wallet functionalities. The code serves as prototyping groundwork for scalable blockchain writing.
 
-![Blockchain Diagram](blockchain_diagram.png)
+![image](https://github.com/ChaitanyaKharche/blockchainproject/assets/72820371/3ce1d8ba-e1f0-4d48-9325-4e9d2fbcf904)
 
 ## Key Aspects
 
